@@ -95,7 +95,7 @@
             position: absolute;
             top: 40px;
             right: 40px;
-            width: 160px;
+            width: 140px;
             height: auto;
             border-radius: 6px;
             box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
@@ -630,4 +630,5 @@
 
         ::-webkit-scrollbar-thumb:hover {
             background: #b89e2a;
+
         }
